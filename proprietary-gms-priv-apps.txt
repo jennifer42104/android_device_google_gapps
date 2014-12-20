@@ -1,0 +1,11 @@
+system/priv-app/ConfigUpdater.apk
+system/priv-app/GmsCore.apk
+system/priv-app/GoogleBackupTransport.apk
+system/priv-app/GoogleFeedback.apk
+system/priv-app/GoogleLoginService.apk
+system/priv-app/GoogleOneTimeInitializer.apk
+system/priv-app/GooglePartnerSetup.apk
+system/priv-app/GoogleServicesFramework.apk
+system/priv-app/Phonesky.apk
+system/priv-app/SetupWizard.apk
+system/priv-app/Velvet.apk
